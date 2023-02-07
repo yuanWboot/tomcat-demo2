@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AjaxDemo/AjaxDemo.iml" filepath="$PROJECT_DIR$/../AjaxDemo/AjaxDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Cookie-demo/Cookie-demo.iml" filepath="$PROJECT_DIR$/../Cookie-demo/Cookie-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../brand-case/brand-case.iml" filepath="$PROJECT_DIR$/../brand-case/brand-case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../brand-demo/brand-demo.iml" filepath="$PROJECT_DIR$/../brand-demo/brand-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../filter-demo/filter-demo.iml" filepath="$PROJECT_DIR$/../filter-demo/filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsp-demo/jsp-demo.iml" filepath="$PROJECT_DIR$/../jsp-demo/jsp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-demo2.iml" filepath="$PROJECT_DIR$/tomcat-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vue-demo/vue-demo.iml" filepath="$PROJECT_DIR$/../vue-demo/vue-demo.iml" />
+    </modules>
+  </component>
+</project>
